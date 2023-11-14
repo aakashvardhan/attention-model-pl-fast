@@ -1,0 +1,7 @@
+datasets
+torchmetrics
+tokenizers
+torch-lr-finder
+lightning
+torch_tb_profiler
+pathlib

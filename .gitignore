@@ -1,0 +1,11 @@
+lightning_logs/
+
+logs/
+
+weights/
+*.pth
+*.ckpt
+
+*.pyc
+
+experiments/
